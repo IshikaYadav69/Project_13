@@ -11,3 +11,12 @@ document.addEventListener('DOMContentLoaded', function () {
             this.querySelector('i').classList.toggle('fa-bars'); // Ensure both are toggled
         });
     }
+    if (mobileMenuButton && navUl) {
+        mobileMenuButton.addEventListener('click', function () {
+            navUl.classList.toggle('active'); // Toggles 'active' class
+            this.querySelector('i').classList.toggle('fa-times');
+            this.querySelector('i').classList.toggle('fa-bars'); // Ensure both are toggled
+        });
+    }
+
+
