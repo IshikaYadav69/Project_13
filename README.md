@@ -9,7 +9,7 @@ A bright, clean, and mobile-responsive front-end template built using **HTML5**,
 This project is proudly crafted with ❤ by Ishika Yadav and the talented web development team:
 
 * **Ishika Yadav** – Masterminds the HTML and JavaScript structure
-* **Chaman Gowda**, **Ujwal R**, **Tharun V**, **Swapna** – Contributed to the sleek, responsive CSS styling and visual polish
+* **Chaman Gowda**, **Ujwal R**, **Tarun V**, **Swapna** – Contributed to the sleek, responsive CSS styling and visual polish
 
 ---
 
