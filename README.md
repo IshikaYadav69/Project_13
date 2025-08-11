@@ -7,8 +7,12 @@
 ## 👥 Team Behind This
 
 Made with ❤ by  
-*Ishika Yadav* and the web dev team  
-(You can add more team members here!)
+*Ishika Yadav* and the web dev team 
+Ishika Yadav --html,javascript
+Chaman Gowda -- css
+Ujwal R --css
+Tharun V --css
+swapna --css
 
 ---
 
